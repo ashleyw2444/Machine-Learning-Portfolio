@@ -1,4 +1,4 @@
-# Machine-Learning-Portfolio
+# World-Happiness-Index-Machine-Learning-Project
 The Dataset:
 For this project, I worked with the World Happiness Report (WHR) data set (WHR2018Chapter2OnlineData.csv). 
 
